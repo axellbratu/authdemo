@@ -1,0 +1,1 @@
+Basic Authentication and route protection through express and bcrypt
